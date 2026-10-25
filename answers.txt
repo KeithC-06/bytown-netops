@@ -1,4 +1,4 @@
-Q1: af3fc6fc
+Q1: af3fc6f2
 Q2: 2
 Q3: git pull. GitHub has a commit than my local main does not so I have to pull again to download it and merge.
 Q4: No. GitIgnore only stops git from tracking new untracked files so anyone can find the password because it is already in a commit and stays in  the history of GitHub.
